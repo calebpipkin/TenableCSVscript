@@ -89,7 +89,7 @@ def updateWorkbook(workbook, file):
 
 def getTenableInfo(urls):
     #using chromium driver through selenium.
-    driver = webdriver.Chrome(executable_path = r"example\path\chromedriver.exe")
+    driver = webdriver.Chrome(executable_path = r"example\path\chromedriver.exe") #need to change
     #Content list will pass back a list of lists. Each list will have the descirption and solution from the corresponding URL.
     contentList = []
     for url in urls:
