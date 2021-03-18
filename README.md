@@ -1,5 +1,5 @@
 # TenableCSVscript
-Creates CSV with additional information from PID CSV
+Creates CSV with additional information from PID CSV. 
 Will need to install Chrome driver: https://chromedriver.chromium.org/getting-started
 
 Upcoming updates:
